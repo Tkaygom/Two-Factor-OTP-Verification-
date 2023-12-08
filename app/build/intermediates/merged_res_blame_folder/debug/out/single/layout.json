@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.assignment.twofactor.app-mergeDebugResources-36:/layout/activity_login.xml",
+        "source": "com.assignment.twofactor.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.assignment.twofactor.app-mergeDebugResources-36:/layout/activity_register.xml",
+        "source": "com.assignment.twofactor.app-main-39:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.assignment.twofactor.app-mergeDebugResources-36:/layout/activity_home.xml",
+        "source": "com.assignment.twofactor.app-main-39:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.assignment.twofactor.app-mergeDebugResources-36:/layout/activity_otp_verification.xml",
+        "source": "com.assignment.twofactor.app-main-39:/layout/activity_otp_verification.xml"
+    },
+    {
+        "merged": "com.assignment.twofactor.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.assignment.twofactor.app-main-39:/layout/activity_main.xml"
+    }
+]

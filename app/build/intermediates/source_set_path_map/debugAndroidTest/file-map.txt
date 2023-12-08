@@ -1,0 +1,6 @@
+com.assignment.twofactor.test.app-core-1.5.0-0 C:\Users\thevi\.gradle\caches\transforms-3\a3fa747772b7eaae8cafa8e19de911de\transformed\core-1.5.0\res
+com.assignment.twofactor.test.app-annotation-experimental-1.3.0-1 C:\Users\thevi\.gradle\caches\transforms-3\c6a23c157f9ce7c838e1f113ef26d9a2\transformed\annotation-experimental-1.3.0\res
+com.assignment.twofactor.test.app-androidTest-2 C:\Users\thevi\Downloads\TwoFactor\TwoFactor\app\build\generated\res\resValues\androidTest\debug
+com.assignment.twofactor.test.app-mergeDebugAndroidTestResources-3 C:\Users\thevi\Downloads\TwoFactor\TwoFactor\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.assignment.twofactor.test.app-mergeDebugAndroidTestResources-4 C:\Users\thevi\Downloads\TwoFactor\TwoFactor\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.assignment.twofactor.test.app-merged_res-5 C:\Users\thevi\Downloads\TwoFactor\TwoFactor\app\build\intermediates\merged_res\debugAndroidTest
