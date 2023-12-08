@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912957238399",
+    "project_id": "twofactor-2d05f",
+    "storage_bucket": "twofactor-2d05f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912957238399:android:1032c524b7806058d6234a",
+        "android_client_info": {
+          "package_name": "com.assignment.twofactor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_xQWMdMq3mLlrwXrgWfU3j5IGX8Bn7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
